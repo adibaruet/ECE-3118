@@ -96,8 +96,8 @@ Markdown allows embedding links and images with a straightforward syntax.
 ```
 
 Example:  
-![Code Image](https://images.unsplash.com/photo-1517430816045-df4b7de5e4f0)
-
+[Check out GitHub](https://github.com)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 

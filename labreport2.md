@@ -5,7 +5,7 @@
   <img src="https://saif1024bd.wordpress.com/wp-content/uploads/2011/06/ruet-monogram-1545x1850.png?w=250" alt="RUET Logo" height="200">
 </p>
 
-<p align="center"><em>"Guided by Heaven's Light"</em></p>
+<p align="center"><em>"Heaven's Light is our Guide."</em></p>
 
 # Rajshahi University of Engineering & Technology, Rajshahi
 

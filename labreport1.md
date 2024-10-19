@@ -10,7 +10,7 @@
 
 ### Lab Report
 
-**Lab Title:** Introduction to Basic Git Commands  
+**Lab Title:** Basic Documentation using Markdown . 
 **Student Name:** Humaira Tasnim Adiba 
 **Roll Number:** 2010002  
 **Lab Session:** 01  
@@ -96,8 +96,8 @@ Markdown allows embedding links and images with a straightforward syntax.
 ```
 
 Example:  
-[code](https://www.code.org)  
-![Code](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcode&psig=AOvVaw2x6YsJ1aG-Q5IdiH07Bzzk&ust=1729405103522000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDJ8JrmmYkDFQAAAAAdAAAAABAE)
+![Code Image](https://images.unsplash.com/photo-1517430816045-df4b7de5e4f0)
+
 
 ---
 

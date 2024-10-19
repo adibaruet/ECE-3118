@@ -1,4 +1,3 @@
-Here’s a paraphrased and more visually engaging version of the lab report and guide:
 
 ---
 

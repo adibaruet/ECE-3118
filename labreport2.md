@@ -20,7 +20,7 @@
 
 **Lab Session:** 02   
 
-**Submission Date:**October 20, 2024  
+**Submission Date:** October 20, 2024  
 
 **Course Code:** ECE 3113  
 
